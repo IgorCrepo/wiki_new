@@ -6,3 +6,4 @@ def get_val(*args):
 print(get_val(1,2))
 
 print(get_val(1,2,3))
+
